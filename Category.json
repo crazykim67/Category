@@ -1,0 +1,37 @@
+[
+  {
+    num  0,
+    name  유산소 운동기구,
+    content  [런닝머신, 스텝 밀 머신]
+  },
+  {
+    num  1,
+    name  사이클,
+    content  [가정용, 스피닝]
+  },
+  {
+    num  2,
+    name  웨이트머신,
+    content  [가슴, 등, 하체, 케이블, 어깨, 복근]
+  },
+  {
+    num  3,
+    name  스미스 머신,
+    content  [랙]
+  },
+  {
+    num  4,
+    name  운동용품,
+    content  [덤벨, 원판,  바벨,  그립]
+  },
+  {
+    num  5,
+    name  보충제,
+    content  [프로틴, 게이너]
+  },
+  {
+    num  6,
+    name  식품,
+    content  [닭가슴살, BCAA]
+  }
+]
